@@ -1,6 +1,6 @@
 # Airline Analysis
 
-React Material UI dashboard with Cube.js
+Airline Analysis Ant Design + Chart JS dashboard with Cube.js
 
 ## Run Project
 
